@@ -1,0 +1,10 @@
+E:\Cod\C#\Ude\2022\CursAPI\C1\C1API.Data\bin\Debug\netcoreapp3.1\C1API.Data.deps.json
+E:\Cod\C#\Ude\2022\CursAPI\C1\C1API.Data\bin\Debug\netcoreapp3.1\C1API.Data.dll
+E:\Cod\C#\Ude\2022\CursAPI\C1\C1API.Data\bin\Debug\netcoreapp3.1\C1API.Data.pdb
+E:\Cod\C#\Ude\2022\CursAPI\C1\C1API.Data\obj\Debug\netcoreapp3.1\C1API.Data.csproj.AssemblyReference.cache
+E:\Cod\C#\Ude\2022\CursAPI\C1\C1API.Data\obj\Debug\netcoreapp3.1\C1API.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cod\C#\Ude\2022\CursAPI\C1\C1API.Data\obj\Debug\netcoreapp3.1\C1API.Data.AssemblyInfoInputs.cache
+E:\Cod\C#\Ude\2022\CursAPI\C1\C1API.Data\obj\Debug\netcoreapp3.1\C1API.Data.AssemblyInfo.cs
+E:\Cod\C#\Ude\2022\CursAPI\C1\C1API.Data\obj\Debug\netcoreapp3.1\C1API.Data.csproj.CoreCompileInputs.cache
+E:\Cod\C#\Ude\2022\CursAPI\C1\C1API.Data\obj\Debug\netcoreapp3.1\C1API.Data.dll
+E:\Cod\C#\Ude\2022\CursAPI\C1\C1API.Data\obj\Debug\netcoreapp3.1\C1API.Data.pdb
